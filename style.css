@@ -4,19 +4,29 @@
 
 body{
     font-family: sans-serif;
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100%;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    align-self: center;
 }
 
 .swiper {
-    width: 300px;
+    width: 100%;
     user-select: none;
-  
 }
 
 img {
     width: 100%;
 }
 
-.swiper-slide {
+.alinhamento {
+    align-items: center;
 }
 
 .card {
@@ -24,6 +34,7 @@ img {
     color: white;
     padding: 16px;
     border-radius: 8px;
+    height: 100%;
 }
 
 h2 {
@@ -40,6 +51,21 @@ p {
 }
 
 @media ( max-width: 600px ) {
+
+    body {
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr;
+        align-items: center;
+        align-content: center;
+      }
+
+      main{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+      
     .swiper-button-prev,
     .swiper-button-next {
         display: none
