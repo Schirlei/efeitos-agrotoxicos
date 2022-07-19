@@ -58,10 +58,10 @@
  
  @media ( max-width: 600px ) {
  
-       main{
-     grid-template:
-     "1"
-     "2";
+    main{
+        grid-template:
+        "1"
+        "2";
      }
        
      .swiper-button-prev,
