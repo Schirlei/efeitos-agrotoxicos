@@ -1,73 +1,71 @@
 * {
-   box-sizing: border-box; 
-}
+    box-sizing: border-box;
+ }
+ 
+ body{
+     font-family: sans-serif;
+     margin: 0;
+     display: grid;
+     grid-template:
+         "main";
+ }
+ 
+ main{
+     display: grid;
+     grid-area: main;
+     grid-template:
+         "1 2";
+     height: 100vh;
+     align-content: stretch;
+     align-items: stretch;
+ }
 
-body{
-    font-family: sans-serif;
-    display: grid;
-    grid-template-columns: 1fr;
-    height: 100%;
-}
-
-main{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr;
-    align-self: center;
-}
-
-.swiper {
-    width: 100%;
-    user-select: none;
-}
-
-img {
-    width: 100%;
-}
-
-.alinhamento {
-    align-items: center;
-}
-
-.card {
-    background: #cd9e25;
-    color: white;
-    padding: 16px;
-    border-radius: 8px;
-    height: 100%;
-}
-
-h2 {
-    margin-top: 0;
-}
-
-p {
-    margin-bottom: 0;
-}
-
-.swiper-button-next, 
-.swiper-button-prev {
-    color: black
-}
-
-@media ( max-width: 600px ) {
-
-    body {
-        display: grid;
-        grid-template-rows: 1fr;
-        grid-template-columns: 1fr;
-        align-items: center;
-        align-content: center;
-      }
-
-      main{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr 1fr;
-    }
-      
-    .swiper-button-prev,
-    .swiper-button-next {
-        display: none
-    } 
-}
+ p{
+     font-size: 0.9rem;
+ }
+ 
+ .swiper {
+     width: 100%;
+     user-select: none;
+ }
+ 
+ .swiper-slide{
+     padding: 10px;
+ }
+ 
+ img {
+     width: 100%;
+ }
+ 
+ .alinhamento {
+     align-items: center;
+ }
+ 
+ .card {
+     color: white;
+     padding: 16px;
+     border-radius: 10px;
+     height: 100%;
+     display: grid;
+     align-items: center;
+ }
+ 
+ .swiper-button-next, 
+ .swiper-button-prev {
+     color: black;
+     grid-area: main;
+ }
+ 
+ @media ( max-width: 600px ) {
+ 
+       main{
+     grid-template:
+     "1"
+     "2";
+     }
+       
+     .swiper-button-prev,
+     .swiper-button-next {
+         display: none;
+     } 
+ }
