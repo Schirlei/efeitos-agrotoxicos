@@ -57,8 +57,9 @@ img {
 
 .swiper-button-next,
 .swiper-button-prev {
-  color: white;
-  background: black;
+  color: rgb(0, 0, 0);
+  background: rgba(236, 236, 236, 0.945);
+  opacity : 0.6;
   width: 48px;
   height: 48px;
   font-size: 12px;
