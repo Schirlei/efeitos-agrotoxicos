@@ -1,6 +1,6 @@
-# efeitos-agrotoxicos
+# Efeitos dos agrotóxicos no corpo humano
 
-Este projeto começou a partir de um dos projetos das disciplinas de Desenvolvimento de Aplicativos Web e Datavis Studio II, no segundo semestre do Master em Jornalismo de Dados, Automação e Data Storytelling, do Insper. 
+Este projeto começou a partir de um dos trabalhos das disciplinas de Desenvolvimento de Aplicativos Web e Datavis Studio II, no segundo semestre do Master em Jornalismo de Dados, Automação e Data Storytelling, do Insper. 
 Nas discplinas, desenvolvemos um mini-projeto chamado passo a passo cujo objetivo era compreender o uso de eventos de scroll e click em Javascript, e praticar o uso da propriedade de CSS em conjunto com javascript para esconder e exibir elementos em sequência.
 Como eu estava trabalhando com uma pauta sobre os agrotóxicos para o site O Joio e O Trigo e havia a demanda de desenvolver um mapa do corpo humano mostrando os principais impactos provocados pela exposição aos agrotóxicos, decidi aplicar a ideia no protótipo desenvolvido em aula. 
 A opção que nós tinhamos era de uma imagem estática. Porém, após a aula do passo a passo, observei a possibilidade de substituir a imagem estática por algo mais interativo, que desse movimento ao corpo humano. 
