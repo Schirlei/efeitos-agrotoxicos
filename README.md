@@ -4,7 +4,7 @@ Este projeto começou a partir de um dos trabalhos das disciplinas de Desenvolvi
 
 Na ocasião, eu estava trabalhando em uma pauta sobre os efeitos dos agrotóxicos na saúde para o site O Joio e O Trigo. Uma das demandas era apresentar um mapa do corpo humano apontando os principais impactos provocados pela exposição aos agrotóxicos. Foi quando decidi testar a ideia no protótipo desenvolvido em aula. 
 
-A opção que havia sido levantada em um primeiro momento pela editora Tati Merlino era de uma imagem estática. Porém, após a aula do passo a passo, observei a possibilidade de substituir a imagem por algo mais interativo, que desse movimento ao corpo humano. 
+A opção que havia sido levantada em um primeiro momento pela editora Tatiana Merlino era de uma imagem estática. Porém, após a aula do passo a passo, observei a possibilidade de substituir a imagem por algo mais interativo, que desse movimento ao corpo humano. A equipe de O Joio gostou da ideia e sugeriu o desafio de implementarmos o meu trabalho na reportagem. 
 
 ### Desafios
 
@@ -18,7 +18,7 @@ Para isso, foi necessário usar a biblioteca Swiper e fazer algumas adaptações
 
 O resultado final pode ser observado na pasta V2 ou clicando [aqui](https://schirlei.github.io/efeitos-agrotoxicos/v2/). O projeto será publicado em reportagem prevista para o dia 25/07 no site de [O Joio e O Trigo](https://ojoioeotrigo.com.br/). 
 
-Agradeço ao professor [Vinicius Sueiro](https://github.com/vsueiro/insper) pela orientação e colocaboração com este trabalho. Agradeço também aos professores Carol Rozendo e Rodrigo Menegat pelas aulas e orientações ao longo do semestre. 
+Agradeço ao professor [Vinicius Sueiro](https://github.com/vsueiro/insper) pela orientação e colocaboração com este trabalho. Agradeço também aos professores [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat) pelas aulas e orientações ao longo do semestre. 
 
 ### Contato
 E-mail: schirleialves@gmail.com
