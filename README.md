@@ -18,7 +18,7 @@ Para isso, foi necessário usar a biblioteca Swiper e fazer algumas adaptações
 
 O resultado final pode ser observado na pasta V2 ou clicando [aqui](https://schirlei.github.io/efeitos-agrotoxicos/v2/). O projeto será publicado em reportagem prevista para o dia 25/07 no site de [O Joio e O Trigo](https://ojoioeotrigo.com.br/). 
 
-Agradeço ao professor Vinicius Sueiro pela orientação e colocaboração com este trabalho. Também agradeço pelas aulas e orientações dos professores Carol Rozendo e Rodrigo Menegat. 
+Agradeço ao professor [Vinicius Sueiro](https://github.com/vsueiro/insper) pela orientação e colocaboração com este trabalho. Agradeço também aos professores Carol Rozendo e Rodrigo Menegat pelas aulas e orientações ao longo do semestre. 
 
 ### Contato
 E-mail: schirleialves@gmail.com
