@@ -8,11 +8,11 @@ A opção que havia sido levantada em um primeiro momento pela editora Tatiana M
 
 ### Desafios
 
-O primeiro passo foi criar as imagens no Figma. Para encontrar os desenhos do corpo humano e dos órgãos que seriam destacados nas figuras usei o plugin Storyset by Feepik. O modelo que eu criei foi melhorado pelas designers Clara Borges e Denise Matsumoto de O Joio e O Trigo. O desafio era tornar as figuras do corpo humano. 
+O primeiro passo foi criar as imagens no Figma. Para encontrar os desenhos do corpo humano e dos órgãos que seriam destacados nas figuras usei o plugin Storyset by Feepik. O modelo que eu criei foi melhorado pelas designers Clara Borges e Denise Matsumoto de O Joio e O Trigo. O desafio era tornar as figuras do corpo humano mais inclusivas. 
 
 Na primeira monitoria do projeto final com o professor Vinicius Sueiro, percebemos que o scroll não seria a melhor opção para apresentar o mapa do corpo humano, uma vez que obrigaríamos o leitor a rolar 19 páginas — número de efeitos dos agrotóxicos que seriam apresentados por meio dos desenhos. A solução proposta pelo professor foi transformá-lo em um carrossel. Assim, o leitor teria a opção de continuar observando o mapa (ao rolar para a lateral) ou seguir com a leitura do texto (rolando para baixo). 
 
-Para isso, foi necessário usar a biblioteca Swiper e fazer algumas adaptações para que o projeto funcionasse tanto na versão Desktop quanto no mobile. Na versão Desktop, o leito pode usar os botões ou arrastar as figuras. No mobile, a opção mais intuitiva é a de arrastar, por isso, escondemos os botões. 
+Para isso, foi necessário usar a biblioteca Swiper e fazer algumas adaptações para que o projeto funcionasse tanto na versão Desktop quanto no mobile. Na versão Desktop, o leitor pode usar os botões ou arrastar as figuras. No mobile, a opção mais intuitiva é a de arrastar, por isso, escondemos os botões. 
 
 ### Resultado
 
