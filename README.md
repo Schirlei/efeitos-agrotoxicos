@@ -16,7 +16,7 @@ Para isso, foi necessário usar a biblioteca Swiper e fazer algumas adaptações
 
 ### Resultado
 
-O resultado final pode ser observado na pasta V2 ou clicando [aqui](https://schirlei.github.io/efeitos-agrotoxicos/v2/). O projeto foi publicado em uma das reportagens da série [Brasil sem Veneno](https://ojoioeotrigo.com.br/2022/07/possiveis-impactos-dos-agrotoxicos-na-saude-humana/), no site de [O Joio e O Trigo](https://ojoioeotrigo.com.br/). 
+O resultado final pode ser observado na pasta V2 ou clicando [aqui](https://schirlei.github.io/efeitos-agrotoxicos/v2/). O projeto foi publicado em uma das reportagens da série [Brasil sem Veneno](https://ojoioeotrigo.com.br/2022/07/possiveis-impactos-dos-agrotoxicos-na-saude-humana/), em [O Joio e O Trigo](https://ojoioeotrigo.com.br/) e [De Olho nos Ruralistas](https://deolhonosruralistas.com.br/2022/07/25/contato-com-agrotoxicos-pode-levar-a-dano-do-dna-causar-cancer-problemas-renais-e-doencas-no-sangue/). 
 
 Agradeço ao professor [Vinicius Sueiro](https://github.com/vsueiro/insper) pelas aulas, orientações e colocaboração com este trabalho. Agradeço também aos professores [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat) pelas aulas e orientações ao longo do semestre, e ao [Tiago Maranhão Barreto Pereira](https://github.com/tiagombp) pelas monitorias, o que contribuiu muito para o nosso processo de aprendizado. 
 
